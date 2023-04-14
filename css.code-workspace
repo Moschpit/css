@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../css2/css"
+		}
+	],
+	"settings": {}
+}
